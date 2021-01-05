@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAw3Bvs1kBs4E99wwtawNOLnn+e71N5Bpb6ueYomcZcxMtPjJYuZXLEocvM6h36sar/KLMSup43Mhm4qZrfXAQ==",
+  "success": true,
+  "projectFilePath": "/Users/bhupeshmalhotra/@Everything/01. Work Stuff/01. Projects/Wyn/Samples/SqlDBSecurityProvider/SqlDBSecurityProvider.csproj",
+  "expectedPackageFiles": [
+    "/Users/bhupeshmalhotra/.nuget/packages/grapecity.enterprise.identity.externalidentityprovider/1.0.2/grapecity.enterprise.identity.externalidentityprovider.1.0.2.nupkg.sha512",
+    "/Users/bhupeshmalhotra/.nuget/packages/grapecity.enterprise.identity.securityprovider/1.0.3/grapecity.enterprise.identity.securityprovider.1.0.3.nupkg.sha512",
+    "/Users/bhupeshmalhotra/.nuget/packages/microsoft.extensions.logging.abstractions/2.2.0/microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "/Users/bhupeshmalhotra/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.win32.registry/4.5.0/microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/bhupeshmalhotra/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.5.0/runtime.native.system.data.sqlclient.sni.4.5.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/bhupeshmalhotra/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/bhupeshmalhotra/.nuget/packages/system.data.sqlclient/4.6.1/system.data.sqlclient.4.6.1.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.diagnostics.diagnosticsource/4.5.0/system.diagnostics.diagnosticsource.4.5.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/Users/bhupeshmalhotra/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.text.encoding.codepages/4.5.0/system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

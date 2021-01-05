@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bhupeshmalhotra/@Everything/01. Work Stuff/01. Projects/Wyn/Samples/SqlDBSecurityProvider/SqlDBSecurityProvider.csproj": {}
+  },
+  "projects": {
+    "/Users/bhupeshmalhotra/@Everything/01. Work Stuff/01. Projects/Wyn/Samples/SqlDBSecurityProvider/SqlDBSecurityProvider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bhupeshmalhotra/@Everything/01. Work Stuff/01. Projects/Wyn/Samples/SqlDBSecurityProvider/SqlDBSecurityProvider.csproj",
+        "projectName": "SqlDBSecurityProvider",
+        "projectPath": "/Users/bhupeshmalhotra/@Everything/01. Work Stuff/01. Projects/Wyn/Samples/SqlDBSecurityProvider/SqlDBSecurityProvider.csproj",
+        "packagesPath": "/Users/bhupeshmalhotra/.nuget/packages/",
+        "outputPath": "/Users/bhupeshmalhotra/@Everything/01. Work Stuff/01. Projects/Wyn/Samples/SqlDBSecurityProvider/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/bhupeshmalhotra/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "/Users/bhupeshmalhotra/Downloads": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "GrapeCity.Enterprise.Identity.SecurityProvider": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
