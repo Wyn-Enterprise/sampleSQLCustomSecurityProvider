@@ -1,4 +1,4 @@
-##How to use:
+#How to use:
 
 1. Create an database named 'sample_csp_db' on your local SQLServer.
 2. Execute the SQL script 'script.sql' to initialize the user data.
