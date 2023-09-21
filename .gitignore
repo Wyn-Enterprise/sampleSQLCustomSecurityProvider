@@ -1,0 +1,10 @@
+
+bin
+obj
+obj/Debug/netstandard2.0/SqlDBSecurityProvider.AssemblyInfo.cs
+obj/Debug/netstandard2.0/SqlDBSecurityProvider.assets.cache
+obj/project.assets.json
+obj/project.nuget.cache
+obj/SqlDBSecurityProvider.csproj.nuget.dgspec.json
+obj/SqlDBSecurityProvider.csproj.nuget.g.props
+obj/SqlDBSecurityProvider.csproj.nuget.g.targets
