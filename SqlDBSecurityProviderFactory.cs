@@ -19,7 +19,7 @@ namespace SqlDBSecurityProvider
 			{
 				Restriction = ConfigurationItemRestriction.Mandatory,
 				ValueType = ConfigurationItemValueType.Text,
-				Value = "Data Source=localhost;Initial Catalog=sample_db;User ID=sa;Password=password;"
+				Value = "Data Source=localhost;Initial Catalog=sample_db;User ID=sa;Password=password;Encrypt=False;" //Please change the Encrypt value to True if you are using encrypted connection
 			}
 		};
 
