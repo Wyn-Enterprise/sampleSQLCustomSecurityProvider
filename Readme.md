@@ -14,4 +14,4 @@
 3. By default, the user "alice" belongs to roles "developer" and "tester", and the user "bob" belongs to role "tester". To see the mapping and usage of authorization settings for the different users and organizations, you should create these roles in the admin portal.
 4. By default, the user "alice" belongs to the organization "org1" and the user "bob" belongs to the organization "org2". To see the behavior of Organization Context and use the Organization managment features of the custom security proider, you also need to create these organizations in the admin portal.
 
-For more information about how to setup Organizations, Users, and Roles, refer to the documentation here: https://wyn.grapecity.com/docs/administration-guide/Security-Management/ 
+For more information about how to setup Organizations, Users, and Roles, refer to [Account Management](https://learn.wynenterprise.com/docs/administration-guide/Account-Management) in Wyn Administration guide.
